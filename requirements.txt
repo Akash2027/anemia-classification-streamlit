@@ -1,1 +1,6 @@
-pip install pandas numpy scikit-learn joblib streamlit fpdf
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+fpdf
