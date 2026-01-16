@@ -1,0 +1,10 @@
+__pycache__/
+.env
+venv/
+models/
+data/
+logs/
+*.pkl
+*.h5
+*.pt
+.streamlit/
