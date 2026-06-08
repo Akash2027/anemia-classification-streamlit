@@ -6,6 +6,12 @@ This system resolves the "black-box" limitations of standard classifiers by enfo
 
 ---
 
+
+## 🌐 Live Demo
+
+**Streamlit Application:**
+https://anemia-classification-system.streamlit.app/
+
 ## 📂 Project Architecture
 
 ```text
@@ -258,11 +264,17 @@ def perform_adaptive_inference(user_input_dict):
 
 ```
 
----
-
 ## ⚖️ Intellectual Property Protection Profile
 
-This implementation maps to the formal claims defined in the pending patent application **"A Physiology-Aware Dual-Path System and Method for Automated Anemia Classification Using Hematological Parameters."**
+This implementation maps directly to the formal claims defined in the published patent application:
+**"A Physiology-Aware Dual-Path System and Method for Automated Anemia Classification Using Hematological Parameters."**
+
+### 🔒 Protected Core Innovations:
+1. **Parallel Contradiction Mapping (Dual-Path Engine):** The unique framework running structural machine learning models (Path A) alongside a parallel symbolic rule-learner (Path B) strictly to predict the activation probability of clinical contradictions.
+2. **Dynamic Context Distribution Shifts:** The proprietary method of utilizing an unlinked systemic stress score (Inflammation Index) to act as a dynamic bias modulator over an algorithmic probability array.
+3. **Reliability-Weighted Training Logic:** The automated validation layer that weights clinical records during training based on their adherence to physiological constraints.
+
+*Unauthorized reproduction, reverse engineering, or commercial exploitation of this architecture or its specific logical transitions is strictly prohibited under applicable patent laws.*
 
 ### Non-Obvious Novelty Core:
 
